@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZKtljK3Bxh8651sQn6SHOPTSyEtrnF3xmDqaRIYzRg2YkIhxMgJo8wel1dgnTxk6a3WIx/yZEXS3bo7dfa9S8A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vmuser\\Documents\\MVC_App_Docker_hub\\MVC_App_Docker_hub\\MVC_App_Docker_hub.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vmuser\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}

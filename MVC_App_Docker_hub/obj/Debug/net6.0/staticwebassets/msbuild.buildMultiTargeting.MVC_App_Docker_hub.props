@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MVC_App_Docker_hub.props" />
+</Project>
